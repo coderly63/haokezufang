@@ -1,0 +1,9 @@
+.home .iconfont {
+  font-size: 20px;
+}
+.home .am-tabs-tab-bar-wrap {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
